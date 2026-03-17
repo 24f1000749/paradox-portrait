@@ -1,0 +1,6 @@
+{
+  "prompt": "A high-resolution surreal photographic mosaic: hundreds of small square panels arranged into a single large panel. Each small panel contains a tiny slanted plane or stripe leaning up toward the right, clearly implying a local upward slope. But the tiles are composed so that the overall mosaic silhouette curves and leans down toward the right, producing a clear opposite global slope. Minimalist color palette, strong directional studio lighting, shallow depth of field, cinematic contrast, precise geometric composition, photoreal + conceptual, no text, no numbers, highly detailed, 1024px+ short side.",
+  "model": "DALL·E 3",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Many small panels tilt upward locally while their global arrangement forms a large tilt in the opposite direction, causing local and global trends to contradict."
+}
